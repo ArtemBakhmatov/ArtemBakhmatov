@@ -55,6 +55,7 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=ArtemBakhmatov&theme=transparent&hide_border=true&mode=weekly&fire=FF2222&dates=2C68F6&currStreakLabel=2C68F6&currStreakNum=2C68F6)](https://git.io/streak-stats)
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ArtemBakhmatov&theme=dark)](https://git.io/streak-stats)
 <!--
 **ArtemBakhmatov/ArtemBakhmatov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
