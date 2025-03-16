@@ -57,6 +57,7 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ArtemBakhmatov)](https://git.io/streak-stats)
 [![GitHub Streak](https://streak-stats.demolab.com?user=ArtemBakhmatov&theme=dark&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ArtemBakhmatov&theme=algolia&locale=ru)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArtemBakhmatov&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 <!--
