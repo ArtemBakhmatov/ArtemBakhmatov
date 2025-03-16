@@ -23,18 +23,18 @@
 </div>
 
 <h1 align="center">
-  Hi, I'm ArtemBakhmatov
+  Привет, меня зовут Артем Бахматов
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-### :man_technologist: About Me :
-I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
+### :man_technologist: Обо мне:
+Я Фронтент-разработчик <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope: Учебный опыт работы более дву лет. За это время я изучил и успешно применял на практике такие технологии, как HTML, CSS, JavaScript и React, а также инструменты разработки — Git и Webpack.
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: В данный момент я изучаю TypeScript и современные подходы к разработке на React, включая хуки, контекст и оптимизацию. Также я учусь писать тесты для React-приложений с использованием Jest и React Testing Library. https://github.com/ArtemBakhmatov/advanced-react
 
-- :zap: In my free time, I solve problems on Leetcode and read tech articles.
+- :zap: В будущем планирую углубить свои знания в области фронтенд-разработки, изучить фреймворк Next.js, улучшить навыки работы с TypeScript и тестированием. Также улучшить свои навыки работы с API, чтобы эффективнее взаимодействовать с бэкендом и понимать процессы обмена данными между фронтендом и сервером.
 
 - :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/-ArtemBakhmatov-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/ip_bakhmatov)
 
