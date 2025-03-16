@@ -30,15 +30,15 @@
 ### :man_technologist: Обо мне:
 Я Фронтент-разработчик <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
 
-- :telescope: Учебный опыт работы более дву лет. За это время я изучил и успешно применял на практике такие технологии, как HTML, CSS, JavaScript и React, а также инструменты разработки — Git и Webpack.
+- :telescope: Учебный опыт работы более дву лет. За это время я изучил и успешно применял на практике такие технологии, как HTML, CSS, JavaScript и React, а также инструменты разработки — Git и Webpack. Моё Портфолио: https://artem-bakhmatov.ru/
 
 - :seedling: В данный момент я изучаю TypeScript и современные подходы к разработке на React, включая хуки, контекст и оптимизацию. Также я учусь писать тесты для React-приложений с использованием Jest и React Testing Library. https://github.com/ArtemBakhmatov/advanced-react
 
 - :zap: В будущем планирую углубить свои знания в области фронтенд-разработки, изучить фреймворк Next.js, улучшить навыки работы с TypeScript и тестированием. Также улучшить свои навыки работы с API, чтобы эффективнее взаимодействовать с бэкендом и понимать процессы обмена данными между фронтендом и сервером.
 
-- :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/-ArtemBakhmatov-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/ip_bakhmatov)
+- :mailbox:Связаться со мной можно: [![Telegram Badge](https://img.shields.io/badge/-ArtemBakhmatov-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/ip_bakhmatov)
 
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Языки и инструменты :
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeSctipt-316192?style=for-the-badge&logo=typescript&logoColor=white)
@@ -51,7 +51,7 @@
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
-### :fire: My Stats :
+### :fire: Моя Статистика :
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ArtemBakhmatov&theme=algolia&locale=ru)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArtemBakhmatov&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
