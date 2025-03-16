@@ -28,7 +28,7 @@
 </h1>
 
 ### :man_technologist: Обо мне:
-Я Фронтент-разработчик <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
+Я Фронтент-разработчик <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> из России.
 
 - :telescope: Учебный опыт работы более дву лет. За это время я изучил и успешно применял на практике такие технологии, как HTML, CSS, JavaScript и React, а также инструменты разработки — Git и Webpack. Моё Портфолио: https://artem-bakhmatov.ru/
 
