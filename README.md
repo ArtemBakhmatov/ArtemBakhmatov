@@ -52,11 +52,6 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
 ### :fire: My Stats :
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=ArtemBakhmatov&theme=transparent&hide_border=true&mode=weekly&fire=FF2222&dates=2C68F6&currStreakLabel=2C68F6&currStreakNum=2C68F6)](https://git.io/streak-stats)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ArtemBakhmatov)](https://git.io/streak-stats)
-[![GitHub Streak](https://streak-stats.demolab.com?user=ArtemBakhmatov&theme=dark&hide_border=true)](https://git.io/streak-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ArtemBakhmatov&theme=algolia&locale=ru)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArtemBakhmatov&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
