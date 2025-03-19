@@ -30,7 +30,7 @@
 ### :man_technologist: Обо мне:
 Я Фронтент-разработчик <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> из России.
 
-- :telescope: Учебный опыт работы более дву лет. За это время я изучил и успешно применял на практике такие технологии, как HTML, CSS, JavaScript и React, а также инструменты разработки — Git и Webpack. Моё Портфолио: https://artem-bakhmatov.ru/
+- :telescope: Frontend разработкой занимаюсь более 2х лет. За это время я изучил и успешно применял на практике такие технологии, как HTML, CSS, JavaScript и React, а также инструменты разработки — Git и Webpack. Моё Портфолио: https://artem-bakhmatov.ru/
 
 - :seedling: В данный момент я изучаю TypeScript и современные подходы к разработке на React, включая хуки, контекст и оптимизацию. Также я учусь писать тесты для React-приложений с использованием Jest и React Testing Library. https://github.com/ArtemBakhmatov/advanced-react
 
